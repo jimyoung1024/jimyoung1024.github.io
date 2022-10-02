@@ -6,7 +6,7 @@ title: 博客主页
 hero: true
 heroFullScreen: false
 heroImage: /logo.png
-bgImage: https://cdn.staticaly.com/gh/jimyoung1024/picx@master/images/blimage1.7gd7f01xmr28.jpg
+bgImage: /blimage.jpg
 heroText: 金洋学长个人博客
 tagline: LOVE & PEACE
 projects:
