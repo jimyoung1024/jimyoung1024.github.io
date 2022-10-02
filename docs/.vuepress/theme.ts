@@ -4,14 +4,13 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
-
   author: {
     name: "金洋学长",
     url: "https://mrhope.site",
   },
   // iconAssets: "iconfont",
-  iconAssets: "//at.alicdn.com/t/c/font_3639341_ri400tyd1al.css",
-
+  iconAssets: "//at.alicdn.com/t/c/font_3639341_hjdz5zlto6.css",
+  iconPrefix: "icon-",
   logo: "/logo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",

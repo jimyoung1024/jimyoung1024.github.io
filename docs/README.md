@@ -5,7 +5,7 @@ icon: home
 title: 博客主页
 hero: true
 heroImage: /logo.png
-heroText: 金洋学长的秘密基地
+heroText: 金洋学长个人博客
 heroFullScreen: false
 tagline: LOVE & PEACE
 projects:
