@@ -2,8 +2,6 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/home",
-  { text: "使用指南", icon: "creative", link: "/guide/" },
   {
     text: "博文",
     icon: "edit",
@@ -45,8 +43,8 @@ export default navbar([
     ],
   },
   {
-    text: "test",
-    icon: "tixing1",
-    link: "https://vuepress-theme-hope.github.io/v2/zh/",
+    text: "我的B站主页",
+    icon: "safari",
+    link: "https://space.bilibili.com/125359767",
   },
 ]);
