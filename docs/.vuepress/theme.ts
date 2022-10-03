@@ -11,7 +11,7 @@ export default hopeTheme({
   },
   iconAssets: "iconfont",
   logo: "/logo.png",
-  repo: "https://github.com/jimyoung1024/blog",
+  repo: "https://github.com/jimyoung1024/jimyoung1024.github.io",
   repoDisplay: false,
   docsDir: "docs",
   // navbar
@@ -24,7 +24,7 @@ export default hopeTheme({
     name: "金洋学长",
     roundAvatar: true,
     description: "00后程序猿｜后端攻城狮",
-    intro: "/",
+    intro: "/intro.md",
     medias: {
       Bilibili: [
         "https://space.bilibili.com/125359767",
@@ -33,17 +33,10 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
-  },
-
   plugins: {
     blog: {
       autoExcerpt: true,
     },  
-
     mdEnhance: {
       enableAll: false,
       presentation: {
