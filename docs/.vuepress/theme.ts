@@ -14,11 +14,11 @@ export default hopeTheme({
   repo: "https://github.com/jimyoung1024/jimyoung1024.github.io",
   repoDisplay: false,
   docsDir: "docs",
-  // navbar
   navbar: navbar,
-  // sidebar
   sidebar: sidebar,
   displayFooter: true,
+  // 是否展示文档贡献者
+  contributors: false,
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
   blog: {
     name: "金洋学长",
@@ -38,7 +38,7 @@ export default hopeTheme({
       autoExcerpt: true,
     },  
     mdEnhance: {
-      enableAll: false,
+      footnote: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
