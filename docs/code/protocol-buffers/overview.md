@@ -31,7 +31,7 @@ pb是Google设计的一种语言中立的，平台中立的，可扩展的机制
 1. 程序之间通信依赖于`.proto`文件，如果没有这个文件，将无法反序列化pb数据包（也是因为使用pb需要先利用`.proto`文件生成代码，导致pb并没有json等协议容易上手）
 2. 没有Json等协议直观。如果不借助一些工具，人类无法直接理解pb数据包中的内容
 
-官网中有更多关于pb劣势的说明，这里不再赘述。[链接](https://developers.google.com/protocol-buffers/docs/overview#not-good-fit)
+官网中有更多关于pb劣势的说明，这里不再赘述。[pb的劣势](https://developers.google.com/protocol-buffers/docs/overview#not-good-fit)
 
 ## 几个名词解释
 |   名称   | 解释                                       |
@@ -41,5 +41,5 @@ pb是Google设计的一种语言中立的，平台中立的，可扩展的机制
 |  protoc  | `.proto`文件的编译器                       |
 |  pb文件  | `.proto`文件的简称                         |
 
-
+## 相关链接
 [^1]: Protocol Buffers谷歌官方文档 <https://developers.google.com/protocol-buffers/docs/overview>
