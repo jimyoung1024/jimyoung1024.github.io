@@ -36,9 +36,10 @@ export default hopeTheme({
   plugins: {
     blog: {
       autoExcerpt: true,
-    },  
+    },
     mdEnhance: {
       footnote: true,
+      mermaid: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
