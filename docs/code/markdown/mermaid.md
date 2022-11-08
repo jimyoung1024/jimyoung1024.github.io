@@ -24,13 +24,14 @@ index: true
 
 mermaid使用的是markdown中的代码块语法，例如
 
-```markdown
-```mermaid
-flowchart LR
-   A -- text --> B -- text2 --> C
-```
 
+````markdown
+```mermaid
+   flowchart LR
+      A -- text --> B -- text2 --> C
 ```
+````
+
 上述代码会渲染出如下图形
 
 ```mermaid
