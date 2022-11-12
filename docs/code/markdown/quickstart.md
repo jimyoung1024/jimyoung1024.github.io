@@ -1,3 +1,7 @@
+---
+order: 2
+tag: [Markdown]
+---
 # 快速上手
 这里介绍一些Markdown最常用的语法，保证您能快速上手。
 ## 选择Markdown编辑器

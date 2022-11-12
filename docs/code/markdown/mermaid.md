@@ -1,13 +1,14 @@
 ---
+order: 3
 index: true
 tag: [Markdown, 绘图]
 ---
 
-# mermaid
+# mermaid绘图
 
 ## 简介
 
-mermaid[^1]是一个mardown画图插件。让你能够使用代码画图。包括
+mermaid[^1]是一个mardown画图插件。让您能够使用代码画图。包括
 
 1. 流程图
 2. 类图
