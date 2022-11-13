@@ -1,6 +1,4 @@
 ---
-order: 3
-index: true
 tag: [Markdown, 绘图]
 ---
 
