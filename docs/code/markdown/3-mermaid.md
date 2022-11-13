@@ -2,7 +2,7 @@
 tag: [Markdown, 绘图]
 ---
 
-# mermaid绘图
+# 3. mermaid绘图
 
 ## 简介
 

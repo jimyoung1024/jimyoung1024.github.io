@@ -1,7 +1,7 @@
 ---
 tag: [Markdown]
 ---
-# 快速上手
+# 2. 快速上手
 这里介绍一些Markdown最常用的语法，保证您能快速上手。
 ## 选择Markdown编辑器
 因为不确定您的电脑上是否已经拥有一款Markdown编辑器（如typora、vscode），为了最大程度不中断您的学习热情，这里提供两款在线markdown编辑器
