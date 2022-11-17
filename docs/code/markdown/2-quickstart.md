@@ -236,4 +236,4 @@ func main() {
 
 ---
 
-本文也是使用markdown进行编辑的，若您对本文中某些效果感兴趣，可以点击[此处](https://raw.githubusercontent.com/jimyoung1024/jimyoung1024.github.io/main/docs/code/markdown/quickstart.md)获取本文源码
+本文也是使用markdown进行编辑的，若您对本文中某些效果感兴趣，可以点击[此处](https://raw.githubusercontent.com/jimyoung1024/jimyoung1024.github.io/main/docs/code/markdown/2-quickstart.md)获取本文源码
