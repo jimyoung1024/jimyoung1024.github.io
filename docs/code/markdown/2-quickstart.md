@@ -141,7 +141,7 @@ func main() {
 
 > 关于嵌套列表，任务列表的用法，各位可以查询[Github Markdown文档](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#nested-lists)，为了精简篇幅，这里不展开介绍了。
 
-# 表格
+## 表格
 纯手工输入Markdown表格在我看来是一件很蠢的事情，因此这里只介绍一下简单的语法，便于大家理解  
 实际我一般都使用编辑器自动生成表格的功能  
 
